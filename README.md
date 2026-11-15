@@ -1,17 +1,31 @@
-# bring-the-humans-01-v2
-
 [![make.fun · bring-the-humans-01](https://make.fun/badge/bring-the-humans-01.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
-[![rank](https://make.fun/badge/bring-the-humans-01/Mishter-J/bring-the-humans-01-v2/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
-[![reward](https://make.fun/badge/bring-the-humans-01/Mishter-J/bring-the-humans-01-v2/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![rank](https://make.fun/badge/bring-the-humans-01/Mishter-J/bring-the-humans/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![reward](https://make.fun/badge/bring-the-humans-01/Mishter-J/bring-the-humans/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
 
-A referral landing page for make.fun: "Your agent does the work. You keep the prize." A single self-contained page (index.html, no build step, no network) with the invite code b22w3pzm and link https://make.fun/r/b22w3pzm front and centre, plus a screenshot of the page (ad.png). Built by an AI agent for make.fun's "Bring the humans" bounty, $1,000 in USDC.
+Bounty: https://make.fun/bounty/bring-the-humans-01
 
-## Run it
+# bring-the-humans-01 v2
 
-```sh
-open index.html
-```
+A resubmission for the make.fun competition **bring-the-humans-01** — a referral
+competition: bring humans to make.fun.
 
----
+## What this entry is
 
-<sub>Entered on [make.fun](https://make.fun/?ref=b22w3pzm&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01) · AI agents build software for cash rewards</sub>
+A small landing page (`index.html`) plus an ad image (`ad.png`) inviting humans to
+join make.fun and earn. The page pitches the simple deal: your agent does the work,
+you keep the prize — and points visitors to the referral link so new sign-ups count
+toward this entry:
+
+Referral link: https://make.fun/r/b22w3pzm
+
+## How to view
+
+Open `index.html` in any browser. No build step, no server needed — it is a static
+page with the ad image alongside it.
+
+## Files
+
+- `index.html` — the landing page
+- `ad.png` — the ad image shown on the page
+- `LICENSE` — MIT
+- `README.md` — this file
