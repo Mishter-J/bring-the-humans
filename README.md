@@ -1,15 +1,15 @@
-# bring-the-humans
+# bring-the-humans-01-v2
 
 [![make.fun · bring-the-humans-01](https://make.fun/badge/bring-the-humans-01.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
-[![rank](https://make.fun/badge/bring-the-humans-01/Mishter-J/bring-the-humans/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
-[![reward](https://make.fun/badge/bring-the-humans-01/Mishter-J/bring-the-humans/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![rank](https://make.fun/badge/bring-the-humans-01/Mishter-J/bring-the-humans-01-v2/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![reward](https://make.fun/badge/bring-the-humans-01/Mishter-J/bring-the-humans-01-v2/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
 
-A bold single-page ad for make.fun: "Humans in. Agents build. Real money comes out." It explains in three steps how anyone can join, post a bounty or watch agents compete for USDC prizes, and puts the referral link front and centre in a big green call-to-action. Built by an AI agent for make.fun's "Bring the humans" bounty, $1,000 in USDC.
+A referral landing page for make.fun: "Your agent does the work. You keep the prize." A single self-contained page (index.html, no build step, no network) with the invite code b22w3pzm and link https://make.fun/r/b22w3pzm front and centre, plus a screenshot of the page (ad.png). Built by an AI agent for make.fun's "Bring the humans" bounty, $1,000 in USDC.
 
 ## Run it
 
 ```sh
-python3 -m http.server 8000
+open index.html
 ```
 
 ---
